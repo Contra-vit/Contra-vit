@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Contra-vit
+- 👋 Hi, I’m Vladimir
 - 👀 I’m interested in React JavaSctipt
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on FinTech
