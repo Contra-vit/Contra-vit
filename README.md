@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vladimir
 - 👀 I’m interested in React JavaSctipt
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on FinTech
 - 📫 How to reach me https://www.linkedin.com/in/vladimir-tsaran-66b4a917a
 
